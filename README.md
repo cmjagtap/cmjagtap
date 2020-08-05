@@ -18,7 +18,7 @@
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/cmjagtap)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/cmjagtap)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the tools I have worked with
