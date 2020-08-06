@@ -11,15 +11,15 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmjagtap1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramohan-jagtap)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![CM's github stats](https://github-readme-stats.vercel.app/api?username=cmjagtap&count_private=true)
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/cmjagtap)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/cmjagtap)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white")
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C++&logoColor=white")
+![SQL](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white")
 
 ##### Some of the tools I have worked with
 
