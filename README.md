@@ -23,18 +23,20 @@
 
 ##### Some of the tools I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/cmjagtap)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white")
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white"&link=https://github.com/cmjagtap)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"&link=https://github.com/cmjagtap)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white")
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white")
 ![Makefile](https://img.shields.io/badge/Makefile-.-brightgreen)
+![CMake](https://img.shields.io/badge/CMake-%230648FC.svg?&style=for-the-badge&logo=CMake&logoColor=white")
+
 
 
 ##### Some of my favorite open source projects
 
 [![gRPC](https://img.shields.io/badge/-gRPC-444444?style=flat&logoColor=175DDC)](https://github.com/grpc/grpc)
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+![Tor](https://img.shields.io/badge/Tor-%237E4798.svg?&style=for-the-badge&logo=Tor&logoColor=white")
 
 <p align="center"> 
   Visitor count<br>
