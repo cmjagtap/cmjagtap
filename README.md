@@ -2,11 +2,11 @@
 #### Hi, I'm CM:
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🎓 Masters (MCA) from Pune University Computer Science Department (PUCSD)
+- 🎓 Masters (MCA) from Pune University Computer Science Department (PUCSD), Pune, Maharashtra.
 - :test_tube: Software Engineer/ Researcher 
 - :speech_balloon: Ask me about Linux , Networking , Cybersecurity, C++ or literally anything!
 - :computer: I love open source projects and like to explore them.
-- :book: Apart from programing i enjoy books.
+- :book: Apart from programing, I enjoy books.
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmjagtap1@gmail.com)
