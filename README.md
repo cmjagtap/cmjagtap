@@ -13,6 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramohan-jagtap)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]()
 
+[![CM's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmjagtap&layout=compact)](https://github.com/cmjagtap)
+
 ![CM's github stats](https://github-readme-stats.vercel.app/api?username=cmjagtap&count_private=true)
 
 ##### Languages I use
