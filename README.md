@@ -7,11 +7,12 @@
 - :speech_balloon: Ask me about Linux , Networking , Cybersecurity, C++ , blockchain (Hyperledger fabric) or literally anything!
 - :computer: I love open source projects and like to explore them.
 - :book: Apart from programing, I enjoy books.
+- :speech_balloon: You can find my article here [Medium](https://cmjagtap.medium.com)
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmjagtap1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramohan-jagtap)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamcmhacker)
 
 [![CM's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmjagtap&layout=compact)](https://github.com/cmjagtap)
 
