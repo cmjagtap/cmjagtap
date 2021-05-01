@@ -4,7 +4,7 @@
 
 - 🎓 Masters (MCA) from Pune University Computer Science Department (PUCSD), Pune, Maharashtra.
 - :test_tube: Software Engineer/ Researcher 
-- :speech_balloon: Ask me about Linux , Networking , Cybersecurity, blockchain (Hyperledger fabric) or literally anything!
+- :speech_balloon: Ask me about Linux , Networking , Cybersecurity, Blockchain (Hyperledger fabric) or literally anything!
 - :computer: I love open source projects and like to explore them.
 - :book: Apart from programing, I enjoy books.
 - :speech_balloon: You can find my article here [Medium](https://cmjagtap.medium.com)
