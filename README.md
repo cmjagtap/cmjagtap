@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramohan-jagtap)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_cmjagtap)
     <a href="https://stackoverflow.com/users/11099804/cm-jagtap" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-[![CM's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmjagtap&layout=compact)](https://github.com/cmjagtap)
 
 ![CM's github stats](https://github-readme-stats.vercel.app/api?username=cmjagtap&count_private=true)
 
