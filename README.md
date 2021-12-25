@@ -17,7 +17,6 @@
 
 ![CM's github stats](https://github-readme-stats.vercel.app/api?username=cmjagtap&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmjagtap&" alt="cmjagtap" /></p>
 
 ##### Languages I use
 
