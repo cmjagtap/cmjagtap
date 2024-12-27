@@ -1,6 +1,7 @@
 
 #### Hi, I'm Chandramohan Jagtap:
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  width="300" 
+    height="300" />
 
 - :test_tube: Senior Blockchain Engineer/ Researcher
 - 🎓 Masters (MCA) from Department Of Computer Science Pune University(PUCSD), Pune, Maharashtra.
