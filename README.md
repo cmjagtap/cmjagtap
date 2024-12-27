@@ -14,12 +14,10 @@
 
 
 ##### Languages
-
 ![Lang](https://skillicons.dev/icons?i=java,golang,solidity,nodejs,js,express,graphql,jenkins	)
 
-##### Databases I use
+##### Databases
 ![DB](https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb)
- 
 
 ##### Tools
 ![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,postman,linux,nginx,grafana,prometheus,vscode	)
